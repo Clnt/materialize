@@ -5993,6 +5993,7 @@ textarea {
   background-color: transparent; }
 
 input[type=text], input[type=password], input[type=email], input[type=date], input[type=tel], input[type=number], textarea.materialize-textarea {
+	width:100%;
   background-color: transparent;
   border: none;
   border-bottom: 1px solid #9e9e9e;
